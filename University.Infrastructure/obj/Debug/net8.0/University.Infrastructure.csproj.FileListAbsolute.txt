@@ -1,0 +1,14 @@
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\bin\Debug\net8.0\University.Infrastructure.deps.json
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\bin\Debug\net8.0\University.Infrastructure.runtimeconfig.json
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\bin\Debug\net8.0\University.Infrastructure.dll
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\bin\Debug\net8.0\University.Infrastructure.pdb
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.AssemblyInfo.cs
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.dll
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\refint\University.Infrastructure.dll
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.pdb
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\University.Infrastructure.genruntimeconfig.cache
+C:\Users\olecs\Desktop\lab3_Zhirnov\University.Infrastructure\obj\Debug\net8.0\ref\University.Infrastructure.dll

@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139AE6D6-B044-46DB-AB60-42A4191DB8B7}|University.ConsoleApp\\University.ConsoleApp.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139AE6D6-B044-46DB-AB60-42A4191DB8B7}|University.ConsoleApp\\University.ConsoleApp.csproj|solutionrelative:university.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\services\\icrudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\services\\icrudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\services\\crudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\services\\crudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\university.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\university.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\models\\studentadressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\models\\studentadressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\models\\enrollmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\models\\enrollmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.infrastructure\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48501D8A-D674-44B1-B74E-C144EE2C0010}|University.Infrastructure\\University.Infrastructure.csproj|solutionrelative:university.infrastructure\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139AE6D6-B044-46DB-AB60-42A4191DB8B7}|University.ConsoleApp\\University.ConsoleApp.csproj|c:\\users\\olecs\\desktop\\lab3_zhirnov\\university.consoleapp\\university.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{139AE6D6-B044-46DB-AB60-42A4191DB8B7}|University.ConsoleApp\\University.ConsoleApp.csproj|solutionrelative:university.consoleapp\\university.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "University.Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:36:40.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "University.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:36:48.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrudServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Services\\CrudServiceAsync.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\Services\\CrudServiceAsync.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Services\\CrudServiceAsync.cs",
+              "RelativeToolTip": "University.Infrastructure\\Services\\CrudServiceAsync.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:37:21.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICrudServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Services\\ICrudServiceAsync.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\Services\\ICrudServiceAsync.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Services\\ICrudServiceAsync.cs",
+              "RelativeToolTip": "University.Infrastructure\\Services\\ICrudServiceAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:37:07.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\UniversityContext.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\UniversityContext.cs",
+              "RelativeToolTip": "University.Infrastructure\\UniversityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:41:55.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "University.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "University.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:23:19.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "University.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\University.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "University.Infrastructure\\University.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\University.Infrastructure.csproj",
+              "RelativeToolTip": "University.Infrastructure\\University.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T09:20:26.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Models\\StudentModel.cs",
+              "RelativeToolTip": "University.Infrastructure\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:32:12.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentAdressModel.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Models\\StudentAdressModel.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\Models\\StudentAdressModel.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Models\\StudentAdressModel.cs",
+              "RelativeToolTip": "University.Infrastructure\\Models\\StudentAdressModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:34:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnrollmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Models\\EnrollmentModel.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\Models\\EnrollmentModel.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Models\\EnrollmentModel.cs",
+              "RelativeToolTip": "University.Infrastructure\\Models\\EnrollmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:35:34.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Models\\CourseModel.cs",
+              "RelativeDocumentMoniker": "University.Infrastructure\\Models\\CourseModel.cs",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.Infrastructure\\Models\\CourseModel.cs",
+              "RelativeToolTip": "University.Infrastructure\\Models\\CourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:34:47.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "University.ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.ConsoleApp\\University.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "University.ConsoleApp\\University.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\olecs\\Desktop\\lab3_Zhirnov\\University.ConsoleApp\\University.ConsoleApp.csproj",
+              "RelativeToolTip": "University.ConsoleApp\\University.ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T09:30:02.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
